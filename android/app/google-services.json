@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937652675847",
+    "project_id": "hydrocare-e29d5",
+    "storage_bucket": "hydrocare-e29d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937652675847:android:1c85d936b4b2986b5591a2",
+        "android_client_info": {
+          "package_name": "com.example.univ_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKe8t9sXp5cNd4DU0FfZO6omTUDg3c2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

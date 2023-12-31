@@ -1,0 +1,7 @@
+flutter_native_splash:
+color: "#FFFFFF"
+color_dark: "#272727"
+image: build\flutter_assets\White black pic.png
+image_dark: build\flutter_assets\Black white pic.png
+
+
