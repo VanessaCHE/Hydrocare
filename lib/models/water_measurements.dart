@@ -1,11 +1,17 @@
-class WaterMeasurement {
+class Product {
   final String id;
   final String name;
-  final double volume; // in liters
+  final int amount;
+  final double price;
 
-  WaterMeasurement({
+  Product({
     required this.id,
     required this.name,
-    required this.volume,
+    required this.amount,
+    required this.price,
   });
+
+  static fromFirestore(Map<String, dynamic> data) {}
 }
+
+
